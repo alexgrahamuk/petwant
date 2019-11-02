@@ -14,3 +14,7 @@ https://github.com/yuriizubkov/petwant-device
 TB Updated
 
 I will further update on almost three years of hacking this beast.
+
+
+https://github.com/alexgrahamuk/petwant-telnet
+https://github.com/alexgrahamuk/petwant-web-php
